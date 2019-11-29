@@ -1,0 +1,16 @@
+.currencies {
+  display: flex;
+  position: absolute;
+  background: white;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
+.currency {
+  cursor: pointer;
+  margin: 1rem;
+}
+
+.hide {
+  display: none;
+}

@@ -1,0 +1,7 @@
+.filtering__hide {
+  display: none;
+}
+
+.filtering__show {
+  display: block;
+}
